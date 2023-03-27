@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Short Stack', cursive;
+}
+
+.btnALL {
+  border: 1px solid #0d6efd;
+  color: #0d6efd;
+}
+
+.btnALL:hover {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.margin {
+  margin-top: 8rem;
+}
+
+.input-class {
+  box-shadow: none;
+  background-color: none;
+}
+
+.hoverClass {
+  margin-top: 5rem;
+  font-weight: 100;
+}
+.hoverClass:hover{
+  color: #0d6efd;
+}
+
+.happy {
+  font-family: 'Sono', sans-serif;
+  color: #0d6efd;
+  cursor: pointer;
+}
+
+.navbar-cls {
+  border-color: none;
+}
+
+.search-bar {
+  outline-color: #0d6efd;
+  outline-width: 10px;
+  border: 1px solid #0d6efd;
+  padding-left: 10px;
+  border-radius: 6px;
+}
+.cont {
+  border-color: #0d6efd;
+  border-radius: 15px;
+}
